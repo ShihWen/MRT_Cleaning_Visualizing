@@ -5,7 +5,7 @@ Since the raw data is over 100 mb, you can download them from the website below,
 - original data comes from http://163.29.157.32:8080/dataset/98d67c29-464a-4003-9f78-b1cbb89bff59
 - second source: https://data.nat.gov.tw/comment/539679
 
-The notebook shows:
+The notebook illustrates:
 1. The process of extracting and cleaning the data, for further analysis. 
 2. Visualizing the data using heatmap feature in seaborn.
 
