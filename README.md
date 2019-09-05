@@ -18,10 +18,10 @@ Raw data:
 
 Cleaned data:
 </br>
-<img src="https://github.com/ShihWen/MRT_cleaning_visualizing/blob/master/images/2_cleaned_data.png" alt="alt text"  height="250">
+<img src="https://github.com/ShihWen/MRT_cleaning_visualizing/blob/master/images/2_cleaned_data.png" alt="alt text"  height="200">
 </br>
 
 Visualizing data in heatmap:
 </br>
-<img src="https://github.com/ShihWen/MRT_cleaning_visualizing/blob/master/images/3_visualized_data.png" alt="alt text"  height="250">
+<img src="https://github.com/ShihWen/MRT_cleaning_visualizing/blob/master/images/3_visualized_data.png" alt="alt text"  height="500">
 </br>
