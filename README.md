@@ -12,10 +12,16 @@ The notebook shows:
 
 
 Raw data:
+</br>
 <img src="https://github.com/ShihWen/MRT_cleaning_visualizing/blob/master/images/1_raw_data.png" alt="alt text"  height="250">
+</br>
 
 Cleaned data:
+</br>
 <img src="https://github.com/ShihWen/MRT_cleaning_visualizing/blob/master/images/2_cleaned_data.png" alt="alt text"  height="250">
+</br>
 
 Visualizing data in heatmap:
+</br>
 <img src="https://github.com/ShihWen/MRT_cleaning_visualizing/blob/master/images/3_visualized_data.png" alt="alt text"  height="250">
+</br>
