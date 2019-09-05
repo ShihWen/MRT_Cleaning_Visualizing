@@ -10,7 +10,7 @@ then visualizing it using heatmap feature in seaborn.
 
 
 Raw data:
-![alt text](https://github.com/ShihWen/MRT_cleaning_visualizing/blob/master/images/1_raw_data.png = 250*250)
+![alt text](https://github.com/ShihWen/MRT_cleaning_visualizing/blob/master/images/1_raw_data.png | width = 250)
 
 Cleaned data:
 
