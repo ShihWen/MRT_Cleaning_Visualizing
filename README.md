@@ -12,15 +12,18 @@ The notebook shows:
 
 Raw data:
 </br>
+</br>
 <img src="https://github.com/ShihWen/MRT_cleaning_visualizing/blob/master/images/1_raw_data.png" alt="alt text"  height="350">
 </br>
 
 Cleaned data:
 </br>
+</br>
 <img src="https://github.com/ShihWen/MRT_cleaning_visualizing/blob/master/images/2_cleaned_data.png" alt="alt text"  height="200">
 </br>
 
 Visualizing data in heatmap (monthly average):
+</br>
 </br>
 <img src="https://github.com/ShihWen/MRT_cleaning_visualizing/blob/master/images/3_visualized_data.png" alt="alt text"  height="500">
 </br>
