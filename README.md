@@ -12,6 +12,8 @@ then visualizing it using heatmap feature in seaborn.
 Raw data:
 ![alt text](https://github.com/ShihWen/MRT_cleaning_visualizing/blob/master/images/1_raw_data.png | width = 250)
 
+<img src="https://github.com/ShihWen/MRT_cleaning_visualizing/blob/master/images/1_raw_data.png" alt="alt text" width="250" height="250">
+
 Cleaned data:
 
 Visualizing data in heatmap:
